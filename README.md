@@ -1,3 +1,3 @@
 # codeAndDocs
 # Диаграмма классов
-![Диаграмма классов](/classDiagram.png){width="700" height"400"}
+<img src="/classDiagram.png" width="80%">
