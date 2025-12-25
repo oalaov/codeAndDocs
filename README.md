@@ -1,3 +1,3 @@
 # codeAndDocs
 # Диаграмма классов
-<img src="/classDiagram.png" width="50%">
+<img src="/classDiagram.png" width="35%">
