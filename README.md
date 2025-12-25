@@ -1,6 +1,5 @@
 # codeAndDocs
 '''cpp
-//C++ код
 #include <iostream>
 #include <string>
 
