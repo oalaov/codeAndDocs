@@ -1,3 +1,3 @@
 # codeAndDocs
 # Диаграмма классов
-![Диаграмма классов](/classDiagram/classDiagram.png)
+![Диаграмма классов](/classDiagram.png)
