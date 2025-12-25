@@ -1,4 +1,5 @@
 # codeAndDocs
+# C++ код использованный в программе:
 ```cpp
 #include <iostream>
 #include <string>
